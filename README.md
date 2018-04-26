@@ -1,3 +1,3 @@
 # Java
 
-Java Classwork or Coursework.
+Java Classwork or Homework.
